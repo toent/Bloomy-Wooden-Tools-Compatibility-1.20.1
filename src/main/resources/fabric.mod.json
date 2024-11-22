@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "bloomywoodentoolscompatibility",
+	"version": "1.0.0",
+	"name": "Bloomy Wooden Tools Compatibility",
+	"description": "An extension to add compatibility between Biomes o' Plenty and Wooden Tool Variants!",
+	"authors": [
+		"By toent!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/bloomywoodentoolscompatibility/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"nl.toent.bloomywoodentoolscompatibility.BloomyWoodenToolsCompatibility"
+		],
+		"fabric-datagen": [
+			"nl.toent.bloomywoodentoolscompatibility.BloomyWoodenToolsCompatibilityDataGenerator"
+		]
+	},
+	"mixins": [
+		"bloomywoodentoolscompatibility.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"quad": ">=1.2.9",
+		"glitchcore": ">=0.0.1.1",
+		"terrablender": ">=3.0.1.7"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

@@ -1,0 +1,81 @@
+{
+  "item.bloomywoodentoolscompatibility.fir_pickaxe": "Fir Pickaxe",
+  "item.bloomywoodentoolscompatibility.fir_sword": "Fir Sword",
+  "item.bloomywoodentoolscompatibility.fir_axe": "Fir Axe",
+  "item.bloomywoodentoolscompatibility.fir_shovel": "Fir Shovel",
+  "item.bloomywoodentoolscompatibility.fir_hoe": "Fir Hoe",
+
+  "item.bloomywoodentoolscompatibility.pine_axe": "Pine Axe",
+  "item.bloomywoodentoolscompatibility.pine_pickaxe": "Pine Pickaxe",
+  "item.bloomywoodentoolscompatibility.pine_sword": "Pine Sword",
+  "item.bloomywoodentoolscompatibility.pine_shovel": "Pine Shovel",
+  "item.bloomywoodentoolscompatibility.pine_hoe": "Pine Hoe",
+
+  "item.bloomywoodentoolscompatibility.maple_axe": "Maple Axe",
+  "item.bloomywoodentoolscompatibility.maple_pickaxe": "Maple Pickaxe",
+  "item.bloomywoodentoolscompatibility.maple_sword": "Maple Sword",
+  "item.bloomywoodentoolscompatibility.maple_shovel": "Maple Shovel",
+  "item.bloomywoodentoolscompatibility.maple_hoe": "Maple Hoe",
+
+  "item.bloomywoodentoolscompatibility.redwood_axe": "Redwood Axe",
+  "item.bloomywoodentoolscompatibility.redwood_pickaxe": "Redwood Pickaxe",
+  "item.bloomywoodentoolscompatibility.redwood_sword": "Redwood Sword",
+  "item.bloomywoodentoolscompatibility.redwood_shovel": "Redwood Shovel",
+  "item.bloomywoodentoolscompatibility.redwood_hoe": "Redwood Hoe",
+
+  "item.bloomywoodentoolscompatibility.mahogany_axe": "Mahogany Axe",
+  "item.bloomywoodentoolscompatibility.mahogany_pickaxe": "Mahogany Pickaxe",
+  "item.bloomywoodentoolscompatibility.mahogany_sword": "Mahogany Sword",
+  "item.bloomywoodentoolscompatibility.mahogany_shovel": "Mahogany Shovel",
+  "item.bloomywoodentoolscompatibility.mahogany_hoe": "Mahogany Hoe",
+
+  "item.bloomywoodentoolscompatibility.jacaranda_axe": "Jacaranda Axe",
+  "item.bloomywoodentoolscompatibility.jacaranda_pickaxe": "Jacaranda Pickaxe",
+  "item.bloomywoodentoolscompatibility.jacaranda_sword": "Jacaranda Sword",
+  "item.bloomywoodentoolscompatibility.jacaranda_shovel": "Jacaranda Shovel",
+  "item.bloomywoodentoolscompatibility.jacaranda_hoe": "Jacaranda Hoe",
+
+  "item.bloomywoodentoolscompatibility.palm_axe": "Palm Axe",
+  "item.bloomywoodentoolscompatibility.palm_pickaxe": "Palm Pickaxe",
+  "item.bloomywoodentoolscompatibility.palm_sword": "Palm Sword",
+  "item.bloomywoodentoolscompatibility.palm_shovel": "Palm Shovel",
+  "item.bloomywoodentoolscompatibility.palm_hoe": "Palm Hoe",
+
+  "item.bloomywoodentoolscompatibility.willow_axe": "Willow Axe",
+  "item.bloomywoodentoolscompatibility.willow_pickaxe": "Willow Pickaxe",
+  "item.bloomywoodentoolscompatibility.willow_sword": "Willow Sword",
+  "item.bloomywoodentoolscompatibility.willow_shovel": "Willow Shovel",
+  "item.bloomywoodentoolscompatibility.willow_hoe": "Willow Hoe",
+
+  "item.bloomywoodentoolscompatibility.dead_axe": "Dead Axe",
+  "item.bloomywoodentoolscompatibility.dead_pickaxe": "Dead Pickaxe",
+  "item.bloomywoodentoolscompatibility.dead_sword": "Dead Sword",
+  "item.bloomywoodentoolscompatibility.dead_shovel": "Dead Shovel",
+  "item.bloomywoodentoolscompatibility.dead_hoe": "Dead Hoe",
+
+  "item.bloomywoodentoolscompatibility.empyreal_axe": "Empyreal Axe",
+  "item.bloomywoodentoolscompatibility.empyreal_pickaxe": "Empyreal Pickaxe",
+  "item.bloomywoodentoolscompatibility.empyreal_sword": "Empyreal Sword",
+  "item.bloomywoodentoolscompatibility.empyreal_shovel": "Empyreal Shovel",
+  "item.bloomywoodentoolscompatibility.empyreal_hoe": "Empyreal Hoe",
+
+  "item.bloomywoodentoolscompatibility.hellbark_axe": "Hellbark Axe",
+  "item.bloomywoodentoolscompatibility.hellbark_pickaxe": "Hellbark Pickaxe",
+  "item.bloomywoodentoolscompatibility.hellbark_sword": "Hellbark Sword",
+  "item.bloomywoodentoolscompatibility.hellbark_shovel": "Hellbark Shovel",
+  "item.bloomywoodentoolscompatibility.hellbark_hoe": "Hellbark Hoe",
+
+  "item.bloomywoodentoolscompatibility.magic_axe": "Magic Axe",
+  "item.bloomywoodentoolscompatibility.magic_pickaxe": "Magic Pickaxe",
+  "item.bloomywoodentoolscompatibility.magic_sword": "Magic Sword",
+  "item.bloomywoodentoolscompatibility.magic_shovel": "Magic Shovel",
+  "item.bloomywoodentoolscompatibility.magic_hoe": "Magic Hoe",
+
+  "item.bloomywoodentoolscompatibility.umbran_axe": "Umbran Axe",
+  "item.bloomywoodentoolscompatibility.umbran_pickaxe": "Umbran Pickaxe",
+  "item.bloomywoodentoolscompatibility.umbran_sword": "Umbran Sword",
+  "item.bloomywoodentoolscompatibility.umbran_shovel": "Umbran Shovel",
+  "item.bloomywoodentoolscompatibility.umbran_hoe": "Umbran Hoe",
+
+  "itemGroup.bloomywoodentoolscompatibility.wood_tools_bop": "Biomes o' Plenty Variants"
+}
