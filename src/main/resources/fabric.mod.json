@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "bloomywoodentoolscompatibility",
-	"version": "1.0.1",
+	"version": "${version}",
 	"name": "Bloomy Wooden Tools Compatibility",
 	"description": "An extension to add compatibility between Biomes o' Plenty and Wooden Tool Variants!",
 	"authors": [
