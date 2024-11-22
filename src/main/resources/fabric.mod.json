@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "bloomywoodentoolscompatibility",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Bloomy Wooden Tools Compatibility",
 	"description": "An extension to add compatibility between Biomes o' Plenty and Wooden Tool Variants!",
 	"authors": [
@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/bloomywoodentoolscompatibility/icon.png",
 	"environment": "*",
 	"entrypoints": {

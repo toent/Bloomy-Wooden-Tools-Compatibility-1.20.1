@@ -1,15 +1,82 @@
 {
   "replace": false,
   "values": [
-    "woodentoolvariants:birch_pickaxe",
-    "woodentoolvariants:mangrove_pickaxe",
-    "woodentoolvariants:cherry_pickaxe",
-    "woodentoolvariants:dark_oak_pickaxe",
-    "woodentoolvariants:spruce_pickaxe",
-    "woodentoolvariants:acacia_pickaxe",
-    "woodentoolvariants:bamboo_pickaxe",
-    "woodentoolvariants:jungle_pickaxe",
-    "woodentoolvariants:warped_pickaxe",
-    "woodentoolvariants:crimson_pickaxe"
+    "bloomywoodentoolscompatibility:dead_pickaxe",
+    "bloomywoodentoolscompatibility:dead_sword",
+    "bloomywoodentoolscompatibility:dead_axe",
+    "bloomywoodentoolscompatibility:dead_shovel",
+    "bloomywoodentoolscompatibility:dead_hoe",
+
+    "bloomywoodentoolscompatibility:empyreal_pickaxe",
+    "bloomywoodentoolscompatibility:empyreal_sword",
+    "bloomywoodentoolscompatibility:empyreal_axe",
+    "bloomywoodentoolscompatibility:empyreal_shovel",
+    "bloomywoodentoolscompatibility:empyreal_hoe",
+
+    "bloomywoodentoolscompatibility:fir_pickaxe",
+    "bloomywoodentoolscompatibility:fir_sword",
+    "bloomywoodentoolscompatibility:fir_axe",
+    "bloomywoodentoolscompatibility:fir_shovel",
+    "bloomywoodentoolscompatibility:fir_hoe",
+
+    "bloomywoodentoolscompatibility:hellbark_pickaxe",
+    "bloomywoodentoolscompatibility:hellbark_sword",
+    "bloomywoodentoolscompatibility:hellbark_axe",
+    "bloomywoodentoolscompatibility:hellbark_shovel",
+    "bloomywoodentoolscompatibility:hellbark_hoe",
+
+    "bloomywoodentoolscompatibility:jacaranda_pickaxe",
+    "bloomywoodentoolscompatibility:jacaranda_sword",
+    "bloomywoodentoolscompatibility:jacaranda_axe",
+    "bloomywoodentoolscompatibility:jacaranda_shovel",
+    "bloomywoodentoolscompatibility:jacaranda_hoe",
+
+    "bloomywoodentoolscompatibility:magic_pickaxe",
+    "bloomywoodentoolscompatibility:magic_sword",
+    "bloomywoodentoolscompatibility:magic_axe",
+    "bloomywoodentoolscompatibility:magic_shovel",
+    "bloomywoodentoolscompatibility:magic_hoe",
+
+    "bloomywoodentoolscompatibility:mahogany_pickaxe",
+    "bloomywoodentoolscompatibility:mahogany_sword",
+    "bloomywoodentoolscompatibility:mahogany_axe",
+    "bloomywoodentoolscompatibility:mahogany_shovel",
+    "bloomywoodentoolscompatibility:mahogany_hoe",
+
+    "bloomywoodentoolscompatibility:maple_pickaxe",
+    "bloomywoodentoolscompatibility:maple_sword",
+    "bloomywoodentoolscompatibility:maple_axe",
+    "bloomywoodentoolscompatibility:maple_shovel",
+    "bloomywoodentoolscompatibility:maple_hoe",
+
+    "bloomywoodentoolscompatibility:palm_pickaxe",
+    "bloomywoodentoolscompatibility:palm_sword",
+    "bloomywoodentoolscompatibility:palm_axe",
+    "bloomywoodentoolscompatibility:palm_shovel",
+    "bloomywoodentoolscompatibility:palm_hoe",
+
+    "bloomywoodentoolscompatibility:pine_pickaxe",
+    "bloomywoodentoolscompatibility:pine_sword",
+    "bloomywoodentoolscompatibility:pine_axe",
+    "bloomywoodentoolscompatibility:pine_shovel",
+    "bloomywoodentoolscompatibility:pine_hoe",
+
+    "bloomywoodentoolscompatibility:redwood_pickaxe",
+    "bloomywoodentoolscompatibility:redwood_sword",
+    "bloomywoodentoolscompatibility:redwood_axe",
+    "bloomywoodentoolscompatibility:redwood_shovel",
+    "bloomywoodentoolscompatibility:redwood_hoe",
+
+    "bloomywoodentoolscompatibility:umbran_pickaxe",
+    "bloomywoodentoolscompatibility:umbran_sword",
+    "bloomywoodentoolscompatibility:umbran_axe",
+    "bloomywoodentoolscompatibility:umbran_shovel",
+    "bloomywoodentoolscompatibility:umbran_hoe",
+
+    "bloomywoodentoolscompatibility:willow_pickaxe",
+    "bloomywoodentoolscompatibility:willow_sword",
+    "bloomywoodentoolscompatibility:willow_axe",
+    "bloomywoodentoolscompatibility:willow_shovel",
+    "bloomywoodentoolscompatibility:willow_hoe"
   ]
 }
